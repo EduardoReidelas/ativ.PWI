@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade PWI</title>
+</head>
+<body>
+<h1> Java Script e Java são a mesma coisa?</h1>
+    <br>
+ 
+    A principal diferença entre Java e JavaScript está em seus usos e funcionalidades:
+
+o Java é usado para construir aplicações que são executadas em um ambiente de máquina virtual que permite portabilidade entre diferentes sistemas operacionais;
+o JavaScript é usado para tornar as páginas da web mais interativas e dinâmicas, além de ter capacidades de desenvolvimento no lado do servidor.
+Além disso, Java e JavaScript diferem significativamente em termos de sintaxe, paradigmas de programação e tipos de aplicação:
+
+Java é uma linguagem compilada, que requer verificação de erros antes da execução;
+JavaScript é interpretada, o que significa que os scripts são lidos e executados quase instantaneamente pelo navegador.
+Além disso, o Java se destaca por sua capacidade de desenvolver aplicações seguras e de alto desempenho para todos os tipos de plataformas, de jogos a sistemas integrados de grande escala.
+
+Por outro lado, o JavaScript é imbatível quando o assunto é interatividade web, permitindo a criação de interfaces de usuário que não apenas capturam a atenção do usuário mas também oferecem uma experiência imersiva e interativa.
+  <br>
+  <br>
+  <H1>Quando surgiu o Java Script?</H1>
+  <br>
+  JavaScript é uma Linguagem de Programação, criada por Brendan Eich, a pedido da empresa Netscape, em meados de 1995.
+  <br>
+  <br>
+  <h1>Quem criou o Java Script?</h1>
+  <br>
+  Concebido como uma linguagem do lado do servidor por Brendan Eich (então empregado pela Netscape Corporation), o JavaScript logo chegou ao Netscape Navigator 2.0 em setembro de 1995.
+  <br>
+  <br>
+  <h1>Qual foi o caminho trilhado pelo responsável pela criação do Java Script, trata-se de alguma empresa ainda no mercado? </h1>
+  <br>
+  Javascript surgiu em 1995 e foi criada por Brendan Eich, a pedido da empresa Netscape (um dos primeiros navegadores) com o objetivo de validar formulários HTML. Como os browsers ainda eram estéticos, essa linguagem foi revolucionária para a época.
+<br>
+A nescape não existe mais, Netscape Communications ou simplesmente Netscape foi uma empresa de serviços de computadores nos EUA, mais conhecida pelo seu navegador web Netscape Navigator.
+</body>
+</html>
